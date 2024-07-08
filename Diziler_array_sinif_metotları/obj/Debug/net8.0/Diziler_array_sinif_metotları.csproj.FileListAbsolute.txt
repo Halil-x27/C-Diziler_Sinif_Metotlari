@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\bin\Debug\net8.0\Diziler_array_sinif_metotları.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\bin\Debug\net8.0\Diziler_array_sinif_metotları.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\bin\Debug\net8.0\Diziler_array_sinif_metotları.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\bin\Debug\net8.0\Diziler_array_sinif_metotları.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\bin\Debug\net8.0\Diziler_array_sinif_metotları.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\obj\Debug\net8.0\Diziler_array_sinif_metotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\obj\Debug\net8.0\Diziler_array_sinif_metotları.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\obj\Debug\net8.0\Diziler_array_sinif_metotları.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\obj\Debug\net8.0\Diziler_array_sinif_metotları.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\obj\Debug\net8.0\Diziler_array_sinif_metotları.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\obj\Debug\net8.0\refint\Diziler_array_sinif_metotları.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\obj\Debug\net8.0\Diziler_array_sinif_metotları.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\obj\Debug\net8.0\Diziler_array_sinif_metotları.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Diziler_array_sinif_metotları\obj\Debug\net8.0\ref\Diziler_array_sinif_metotları.dll
